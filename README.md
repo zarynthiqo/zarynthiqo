@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Welcome to My GitHub Profile
 
-<!--
-**zarynthiqo/zarynthiqo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm passionate about cooking and sharing simple, delicious recipes for everyday life.
 
-Here are some ideas to get you started:
+I enjoy exploring:
+- 🍰 Easy Desserts  
+- 🍝 Quick Meals  
+- 🥗 Healthy Recipes  
+- 🍗 Home Cooking Ideas  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you love food and want easy recipes you can try at home, check out my website:
+
+👉 https://foodrecipia.com/
+
+I regularly share new recipes, cooking tips, and ideas to make your meals better and easier.
+
+---
+
+### 🌐 Connect With Me
+- Website: https://foodrecipia.com/
+
+Thanks for visiting my profile!
