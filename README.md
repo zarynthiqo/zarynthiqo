@@ -10,8 +10,6 @@ I enjoy exploring:
 
 If you love food and want easy recipes you can try at home, check out my website:
 
-👉 https://foodrecipia.com/
-
 I regularly share new recipes, cooking tips, and ideas to make your meals better and easier.
 
 ---
